@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-"""Minimum Operations"""
+""" Minimum Operations"""
 
 
-def min_operations(n):
-    """Minimum Operations"""
+def minOperations(n):
+    """ Minimum Operations"""
     if n <= 1:
         return 0
     i = 2
